@@ -7,7 +7,7 @@
 
 ### About Me
 
-I am a software engineering student passionate about building robust and efficient applications. I am detail-oriented, self-motivated, and always eager to learn new technologies. My focus areas include web development, mobile development, and backend systems.
+I am a software engineer passionate about building robust and efficient applications. I am detail-oriented, self-motivated, and always eager to learn new technologies. My focus areas include web development, mobile development, and backend systems.
 
 
 ---
